@@ -1,0 +1,31 @@
+Entra en la aplicación
+Entra en el menu de empleado
+Entra en el menu de gerencia
+Entra en el menu de empleado
+Entra en la funcionalidad de calculo total
+Entra en el menu de empleado
+Entra en la funcionalidad de añadir compra
+Entra en el menu de empleado
+Entra en la funcionalidad de añadir compra
+Entra en el menu de empleado
+Entra en la funcionalidad de añadir compra
+Entra en el menu de empleado
+Entra en la funcionalidad de calculo total
+Entra en la aplicación
+Entra en el menu de empleado
+Entra en la aplicación
+Entra en el menu de gerencia
+Entra en la funcionalidad de dar alta cliente
+Entra en la aplicación
+Entra en la aplicación
+Entra en el menu de gerencia
+Entra en la funcionalidad de dar alta cliente
+Entra en el menu de empleado
+Entra en la funcionalidad de añadir compra
+Entra en el menu de empleado
+Entra en la funcionalidad de añadir compra
+Entra en el menu de empleado
+Entra en la funcionalidad de añadir compra
+Entra en el menu de empleado
+Entra en la funcionalidad de calculo total
+Cierra la aplicación
